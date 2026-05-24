@@ -1,94 +1,78 @@
 <div align="center">
-<!-- Animated glitch header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=COOLXPLO;iamunknown77;CyberSecurity+Researcher;CTF+Player+%7C+Red+Teamer;%5B+UNKNOWN+%2F%2F+UNLOCKED+%5D" alt="Typing SVG" />
-<br/>
-```
-  ██████╗ ██████╗  ██████╗ ██╗     ██╗  ██╗██████╗ ██╗      ██████╗
- ██╔════╝██╔═══██╗██╔═══██╗██║     ╚██╗██╔╝██╔══██╗██║     ██╔═══██╗
- ██║     ██║   ██║██║   ██║██║      ╚███╔╝ ██████╔╝██║     ██║   ██║
- ██║     ██║   ██║██║   ██║██║      ██╔██╗ ██╔═══╝ ██║     ██║   ██║
- ╚██████╗╚██████╔╝╚██████╔╝███████╗██╔╝ ██╗██║     ███████╗╚██████╔╝
-  ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝
-```
-<img src="https://komarev.com/ghpvc/?username=COOLXPLO&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/COOLXPLO?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS" />
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODYwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDg2MCAxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIEBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PVNoYXJlK1RlY2grTW9ubyZhbXA7ZGlzcGxheT1zd2FwJyk7CgogICAgICAubWF0cml4LWNoYXIgeyBmb250LWZhbWlseTogJ1NoYXJlIFRlY2ggTW9ubycsIG1vbm9zcGFjZTsgZm9udC1zaXplOiAxMXB4OyB9CiAgICAgIC5tYWluLXRleHQgICB7IGZvbnQtZmFtaWx5OiAnU2hhcmUgVGVjaCBNb25vJywgbW9ub3NwYWNlOyBmb250LXNpemU6IDM4cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC5zdWItdGV4dCAgICB7IGZvbnQtZmFtaWx5OiAnU2hhcmUgVGVjaCBNb25vJywgbW9ub3NwYWNlOyBmb250LXNpemU6IDEzcHg7IH0KICAgICAgLnRhZy10ZXh0ICAgIHsgZm9udC1mYW1pbHk6ICdTaGFyZSBUZWNoIE1vbm8nLCBtb25vc3BhY2U7IGZvbnQtc2l6ZTogMTFweDsgfQoKICAgICAgLyogbWF0cml4IGNvbHVtbiBmYWRlICovCiAgICAgIEBrZXlmcmFtZXMgY29sMCAgeyAwJXtvcGFjaXR5OjB9IDUle29wYWNpdHk6MX0gNjAle29wYWNpdHk6LjZ9IDEwMCV7b3BhY2l0eTowfSB9CiAgICAgIEBrZXlmcmFtZXMgY29sMSAgeyAwJXtvcGFjaXR5OjB9IDEwJXtvcGFjaXR5OjF9IDY1JXtvcGFjaXR5Oi41fSAxMDAle29wYWNpdHk6MH0gfQogICAgICBAa2V5ZnJhbWVzIGNvbDIgIHsgMCV7b3BhY2l0eTowfSAxNSV7b3BhY2l0eTouOX0gNzAle29wYWNpdHk6LjR9IDEwMCV7b3BhY2l0eTowfSB9CiAgICAgIEBrZXlmcmFtZXMgY29sMyAgeyAwJXtvcGFjaXR5OjB9IDgle29wYWNpdHk6MX0gNTUle29wYWNpdHk6Ljd9IDEwMCV7b3BhY2l0eTowfSB9CiAgICAgIEBrZXlmcmFtZXMgY29sNCAgeyAwJXtvcGFjaXR5OjB9IDIwJXtvcGFjaXR5Oi44fSA3NSV7b3BhY2l0eTouM30gMTAwJXtvcGFjaXR5OjB9IH0KCiAgICAgIEBrZXlmcmFtZXMgZ2xpdGNoMSB7CiAgICAgICAgMCUsOTIle3RyYW5zZm9ybTp0cmFuc2xhdGUoMCwwKTtvcGFjaXR5OjF9CiAgICAgICAgOTMle3RyYW5zZm9ybTp0cmFuc2xhdGUoLTNweCwxcHgpO29wYWNpdHk6Ljg7ZmlsdGVyOmh1ZS1yb3RhdGUoOTBkZWcpfQogICAgICAgIDk0JXt0cmFuc2Zvcm06dHJhbnNsYXRlKDNweCwtMXB4KTtvcGFjaXR5Oi45fQogICAgICAgIDk1JXt0cmFuc2Zvcm06dHJhbnNsYXRlKC0ycHgsMnB4KTtmaWx0ZXI6aHVlLXJvdGF0ZSgxODBkZWcpfQogICAgICAgIDk2JXt0cmFuc2Zvcm06dHJhbnNsYXRlKDAsMCk7b3BhY2l0eToxO2ZpbHRlcjpub25lfQogICAgICAgIDk3JXt0cmFuc2Zvcm06dHJhbnNsYXRlKDJweCwwKTtvcGFjaXR5Oi43fQogICAgICAgIDk4JXt0cmFuc2Zvcm06dHJhbnNsYXRlKC0xcHgsMXB4KTtvcGFjaXR5OjE7ZmlsdGVyOmh1ZS1yb3RhdGUoMjcwZGVnKX0KICAgICAgICA5OSV7dHJhbnNmb3JtOnRyYW5zbGF0ZSgwLDApO2ZpbHRlcjpub25lfQogICAgICAgIDEwMCV7dHJhbnNmb3JtOnRyYW5zbGF0ZSgwLDApO29wYWNpdHk6MX0KICAgICAgfQoKICAgICAgQGtleWZyYW1lcyBzY2FubGluZSB7CiAgICAgICAgMCV7dHJhbnNmb3JtOnRyYW5zbGF0ZVkoLTE4MHB4KX0gMTAwJXt0cmFuc2Zvcm06dHJhbnNsYXRlWSgxODBweCl9CiAgICAgIH0KCiAgICAgIEBrZXlmcmFtZXMgYmxpbmsgeyAwJSw0OSV7b3BhY2l0eToxfSA1MCUsMTAwJXtvcGFjaXR5OjB9IH0KCiAgICAgIEBrZXlmcmFtZXMgZmFkZVVwIHsKICAgICAgICAwJXtvcGFjaXR5OjA7dHJhbnNmb3JtOnRyYW5zbGF0ZVkoMTJweCl9IDEwMCV7b3BhY2l0eToxO3RyYW5zZm9ybTp0cmFuc2xhdGVZKDApfQogICAgICB9CgogICAgICBAa2V5ZnJhbWVzIGI2NGN5Y2xlIHsKICAgICAgICAwJSAgIHsgb3BhY2l0eTogMSB9CiAgICAgICAgMTglICB7IG9wYWNpdHk6IDEgfQogICAgICAgIDIyJSAgeyBvcGFjaXR5OiAwIH0KICAgICAgICAzOCUgIHsgb3BhY2l0eTogMCB9CiAgICAgICAgNDIlICB7IG9wYWNpdHk6IDEgfQogICAgICAgIDYwJSAgeyBvcGFjaXR5OiAxIH0KICAgICAgICA2NCUgIHsgb3BhY2l0eTogMCB9CiAgICAgICAgODAlICB7IG9wYWNpdHk6IDAgfQogICAgICAgIDg0JSAgeyBvcGFjaXR5OiAxIH0KICAgICAgICAxMDAlIHsgb3BhY2l0eTogMSB9CiAgICAgIH0KICAgICAgQGtleWZyYW1lcyBiNjRjeWNsZTIgewogICAgICAgIDAlICAgeyBvcGFjaXR5OiAwIH0KICAgICAgICAxOCUgIHsgb3BhY2l0eTogMCB9CiAgICAgICAgMjIlICB7IG9wYWNpdHk6IDEgfQogICAgICAgIDM4JSAgeyBvcGFjaXR5OiAxIH0KICAgICAgICA0MiUgIHsgb3BhY2l0eTogMCB9CiAgICAgICAgNjAlICB7IG9wYWNpdHk6IDAgfQogICAgICAgIDY0JSAgeyBvcGFjaXR5OiAxIH0KICAgICAgICA4MCUgIHsgb3BhY2l0eTogMSB9CiAgICAgICAgODQlICB7IG9wYWNpdHk6IDAgfQogICAgICAgIDEwMCUgeyBvcGFjaXR5OiAwIH0KICAgICAgfQoKICAgICAgQGtleWZyYW1lcyBwdWxzZSB7IDAlLDEwMCV7b3BhY2l0eTouMTV9IDUwJXtvcGFjaXR5Oi4zNX0gfQogICAgICBAa2V5ZnJhbWVzIGJvcmRlckZsYXNoIHsgMCUsMTAwJXtzdHJva2U6IzAwZmY0MTtzdHJva2Utb3BhY2l0eTouNX0gNTAle3N0cm9rZTojMDBmZjQxO3N0cm9rZS1vcGFjaXR5OjF9IH0KICAgIDwvc3R5bGU+CgogICAgPCEtLSBnbG93IGZpbHRlciAtLT4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjUiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT48ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz48ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz48L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9Imdsb3cyIiB4PSItMzAlIiB5PSItMzAlIiB3aWR0aD0iMTYwJSIgaGVpZ2h0PSIxNjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNiIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0iZ2xpdGNoLWZpbHRlciI+CiAgICAgIDxmZUNvbG9yTWF0cml4IHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIxIDAgMCAwIDAgIDAgMCAwIDAgMCAgMCAwIDAgMCAwICAwIDAgMCAxIDAiLz4KICAgIDwvZmlsdGVyPgoKICAgIDwhLS0gc2NhbmxpbmUgZ3JhZGllbnQgLS0+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InNjYW5HcmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMGZmNDEiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzAwZmY0MSIgc3RvcC1vcGFjaXR5PSIwLjA2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwZmY0MSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgoKICAgIDwhLS0gdGV4dCBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibmFtZUdyYWQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgICBzdG9wLWNvbG9yPSIjMDBmZjQxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiAgc3RvcC1jb2xvcj0iI2FhZmZhYSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGZmNDEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CgogICAgPGNsaXBQYXRoIGlkPSJjbGlwIj48cmVjdCB3aWR0aD0iODYwIiBoZWlnaHQ9IjE4MCIvPjwvY2xpcFBhdGg+CiAgPC9kZWZzPgoKICA8IS0tIGJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9Ijg2MCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMwZDExMTciLz4KCiAgPCEtLSBzdWJ0bGUgZ3JpZCAtLT4KICA8ZyBvcGFjaXR5PSIwLjA0IiBzdHJva2U9IiMwMGZmNDEiIHN0cm9rZS13aWR0aD0iMC41Ij4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMjAiIHgyPSI4NjAiIHkyPSIyMCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSI0MCIgeDI9Ijg2MCIgeTI9IjQwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjYwIiB4Mj0iODYwIiB5Mj0iNjAiLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iODAiIHgyPSI4NjAiIHkyPSI4MCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIxMDAiIHgyPSI4NjAiIHkyPSIxMDAiLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMTIwIiB4Mj0iODYwIiB5Mj0iMTIwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjE0MCIgeDI9Ijg2MCIgeTI9IjE0MCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIxNjAiIHgyPSI4NjAiIHkyPSIxNjAiLz4KICAgIDxsaW5lIHgxPSIyMCIgeTE9IjAiIHgyPSIyMCIgeTI9IjE4MCIvPgogICAgPGxpbmUgeDE9IjYwIiB5MT0iMCIgeDI9IjYwIiB5Mj0iMTgwIi8+CiAgICA8bGluZSB4MT0iMTAwIiB5MT0iMCIgeDI9IjEwMCIgeTI9IjE4MCIvPgogICAgPGxpbmUgeDE9IjE0MCIgeTE9IjAiIHgyPSIxNDAiIHkyPSIxODAiLz4KICAgIDxsaW5lIHgxPSI3MjAiIHkxPSIwIiB4Mj0iNzIwIiB5Mj0iMTgwIi8+CiAgICA8bGluZSB4MT0iNzYwIiB5MT0iMCIgeDI9Ijc2MCIgeTI9IjE4MCIvPgogICAgPGxpbmUgeDE9IjgwMCIgeTE9IjAiIHgyPSI4MDAiIHkyPSIxODAiLz4KICAgIDxsaW5lIHgxPSI4NDAiIHkxPSIwIiB4Mj0iODQwIiB5Mj0iMTgwIi8+CiAgPC9nPgoKICA8IS0tIE1BVFJJWCBSQUlOIExFRlQgUEFORUwgLS0+CiAgPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXApIj4KICAgIDwhLS0gY29sIDEgLS0+CiAgICA8ZyBjbGFzcz0ibWF0cml4LWNoYXIiIGZpbGw9IiMwMGZmNDEiIGFuaW1hdGlvbj0iY29sMCA0LjJzIGluZmluaXRlIj4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIGZyb209IjAsLTE4MCIgdG89IjAsMTgwIiBkdXI9IjQuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDx0ZXh0IHg9IjgiICBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjkiPjE8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjgiICB5PSIxNCIgZmlsbD0iIzM5ZmYxNCIgb3BhY2l0eT0iMC43Ij4wPC90ZXh0PgogICAgICA8dGV4dCB4PSI4IiAgeT0iMjgiIGZpbGw9IiMwMGNjMzMiIG9wYWNpdHk9IjAuNSI+MTwvdGV4dD4KICAgICAgPHRleHQgeD0iOCIgIHk9IjQyIiBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjQiPjA8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjgiICB5PSI1NiIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC4zIj4xPC90ZXh0PgogICAgICA8dGV4dCB4PSI4IiAgeT0iNzAiIGZpbGw9IiMwMGNjMzMiIG9wYWNpdHk9IjAuMiI+MDwvdGV4dD4KICAgICAgPHRleHQgeD0iOCIgIHk9Ijg0IiBmaWxsPSIjMDA0ZDE0IiBvcGFjaXR5PSIwLjEiPjE8L3RleHQ+CiAgICA8L2c+CiAgICA8IS0tIGNvbCAyIC0tPgogICAgPGcgY2xhc3M9Im1hdHJpeC1jaGFyIiBmaWxsPSIjMDBmZjQxIj4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIGZyb209IjAsLTEyMCIgdG89IjAsMzAwIiBkdXI9IjUuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDx0ZXh0IHg9IjIwIiBmaWxsPSIjMzlmZjE0IiBvcGFjaXR5PSIwLjkiPjA8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjIwIiB5PSIxNCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC42Ij4xPC90ZXh0PgogICAgICA8dGV4dCB4PSIyMCIgeT0iMjgiIGZpbGw9IiMwMGNjMzMiIG9wYWNpdHk9IjAuNCI+MDwvdGV4dD4KICAgICAgPHRleHQgeD0iMjAiIHk9IjQyIiBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjMiPuOCpDwvdGV4dD4KICAgICAgPHRleHQgeD0iMjAiIHk9IjU2IiBmaWxsPSIjMDA0ZDE0IiBvcGFjaXR5PSIwLjE1Ij4wPC90ZXh0PgogICAgPC9nPgogICAgPCEtLSBjb2wgMyAtLT4KICAgIDxnIGNsYXNzPSJtYXRyaXgtY2hhciI+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiBmcm9tPSIwLC02MCIgdG89IjAsMjQwIiBkdXI9IjMuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDx0ZXh0IHg9IjM1IiBmaWxsPSIjMzlmZjE0IiBvcGFjaXR5PSIwLjk1Ij7jgqI8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjM1IiB5PSIxNCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC43Ij4xPC90ZXh0PgogICAgICA8dGV4dCB4PSIzNSIgeT0iMjgiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuNSI+44KmPC90ZXh0PgogICAgICA8dGV4dCB4PSIzNSIgeT0iNDIiIGZpbGw9IiMwMDRkMTQiIG9wYWNpdHk9IjAuMiI+MDwvdGV4dD4KICAgIDwvZz4KICAgIDwhLS0gY29sIDQgLS0+CiAgICA8ZyBjbGFzcz0ibWF0cml4LWNoYXIiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iMCwtMjAwIiB0bz0iMCwyMDAiIGR1cj0iNi4xcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgICAgPHRleHQgeD0iNTAiIGZpbGw9IiMzOWZmMTQiIG9wYWNpdHk9IjAuOSI+MTwvdGV4dD4KICAgICAgPHRleHQgeD0iNTAiIHk9IjE0IiBmaWxsPSIjMDBjYzMzIiBvcGFjaXR5PSIwLjYiPuOCqDwvdGV4dD4KICAgICAgPHRleHQgeD0iNTAiIHk9IjI4IiBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjQiPjA8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjUwIiB5PSI0MiIgZmlsbD0iIzAwNGQxNCIgb3BhY2l0eT0iMC4yIj4xPC90ZXh0PgogICAgPC9nPgogICAgPCEtLSBjb2wgNSAtLT4KICAgIDxnIGNsYXNzPSJtYXRyaXgtY2hhciI+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiBmcm9tPSIwLDAiIHRvPSIwLDM2MCIgZHVyPSI0LjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgICA8dGV4dCB4PSI2NCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC44Ij7jgqo8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjY0IiB5PSIxNCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC41Ij4xPC90ZXh0PgogICAgICA8dGV4dCB4PSI2NCIgeT0iMjgiIGZpbGw9IiMwMDRkMTQiIG9wYWNpdHk9IjAuMiI+MDwvdGV4dD4KICAgIDwvZz4KCiAgICA8IS0tIE1BVFJJWCBSQUlOIFJJR0hUIFBBTkVMIC0tPgogICAgPCEtLSBjb2wgUjEgLS0+CiAgICA8ZyBjbGFzcz0ibWF0cml4LWNoYXIiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iMCwtOTAiIHRvPSIwLDI3MCIgZHVyPSI1LjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgICA8dGV4dCB4PSI3OTAiIGZpbGw9IiMzOWZmMTQiIG9wYWNpdHk9IjAuOSI+MTwvdGV4dD4KICAgICAgPHRleHQgeD0iNzkwIiB5PSIxNCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC43Ij7jg408L3RleHQ+CiAgICAgIDx0ZXh0IHg9Ijc5MCIgeT0iMjgiIGZpbGw9IiMwMGNjMzMiIG9wYWNpdHk9IjAuNSI+MDwvdGV4dD4KICAgICAgPHRleHQgeD0iNzkwIiB5PSI0MiIgZmlsbD0iIzAwNGQxNCIgb3BhY2l0eT0iMC4yIj4xPC90ZXh0PgogICAgPC9nPgogICAgPCEtLSBjb2wgUjIgLS0+CiAgICA8ZyBjbGFzcz0ibWF0cml4LWNoYXIiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iMCwtMTUwIiB0bz0iMCwzMzAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDx0ZXh0IHg9IjgwNiIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC45NSI+MDwvdGV4dD4KICAgICAgPHRleHQgeD0iODA2IiB5PSIxNCIgZmlsbD0iIzM5ZmYxNCIgb3BhY2l0eT0iMC43Ij7jg4g8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjgwNiIgeT0iMjgiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuNCI+MTwvdGV4dD4KICAgICAgPHRleHQgeD0iODA2IiB5PSI0MiIgZmlsbD0iIzAwNGQxNCIgb3BhY2l0eT0iMC4xNSI+44KiPC90ZXh0PgogICAgPC9nPgogICAgPCEtLSBjb2wgUjMgLS0+CiAgICA8ZyBjbGFzcz0ibWF0cml4LWNoYXIiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iMCwtMzAiIHRvPSIwLDM1MCIgZHVyPSI2LjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgICA8dGV4dCB4PSI4MjEiIGZpbGw9IiMzOWZmMTQiIG9wYWNpdHk9IjAuODUiPjE8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjgyMSIgeT0iMTQiIGZpbGw9IiMwMGNjMzMiIG9wYWNpdHk9IjAuNiI+MDwvdGV4dD4KICAgICAgPHRleHQgeD0iODIxIiB5PSIyOCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC4zIj7jgqY8L3RleHQ+CiAgICA8L2c+CiAgICA8IS0tIGNvbCBSNCAtLT4KICAgIDxnIGNsYXNzPSJtYXRyaXgtY2hhciI+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiBmcm9tPSIwLC0xMTAiIHRvPSIwLDI5MCIgZHVyPSIzLjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgICA8dGV4dCB4PSI4MzYiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuOSI+44KoPC90ZXh0PgogICAgICA8dGV4dCB4PSI4MzYiIHk9IjE0IiBmaWxsPSIjMzlmZjE0IiBvcGFjaXR5PSIwLjY1Ij4xPC90ZXh0PgogICAgICA8dGV4dCB4PSI4MzYiIHk9IjI4IiBmaWxsPSIjMDA0ZDE0IiBvcGFjaXR5PSIwLjIiPjA8L3RleHQ+CiAgICA8L2c+CiAgICA8IS0tIGNvbCBSNSAtLT4KICAgIDxnIGNsYXNzPSJtYXRyaXgtY2hhciI+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiBmcm9tPSIwLC03MCIgdG89IjAsMzEwIiBkdXI9IjUuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDx0ZXh0IHg9Ijg1MCIgZmlsbD0iIzM5ZmYxNCIgb3BhY2l0eT0iMC44Ij4wPC90ZXh0PgogICAgICA8dGV4dCB4PSI4NTAiIHk9IjE0IiBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjUiPjE8L3RleHQ+CiAgICAgIDx0ZXh0IHg9Ijg1MCIgeT0iMjgiIGZpbGw9IiMwMDRkMTQiIG9wYWNpdHk9IjAuMTUiPuOCojwvdGV4dD4KICAgIDwvZz4KICA8L2c+CgogIDwhLS0gb3V0ZXIgYm9yZGVyIGFuaW1hdGVkIC0tPgogIDxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSI4NTgiIGhlaWdodD0iMTc4IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmNDEiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuNSIgcng9IjIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLW9wYWNpdHkiIHZhbHVlcz0iMC4zOzAuODswLjMiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9yZWN0PgoKICA8IS0tIGlubmVyIGZyYW1lIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI3OCIgeTE9IjAiIHgyPSI3OCIgeTI9IjE4MCIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLW9wYWNpdHk9IjAuMiIvPgogIDxsaW5lIHgxPSI3ODIiIHkxPSIwIiB4Mj0iNzgyIiB5Mj0iMTgwIiBzdHJva2U9IiMwMGZmNDEiIHN0cm9rZS13aWR0aD0iMC41IiBzdHJva2Utb3BhY2l0eT0iMC4yIi8+CgogIDwhLS0gY29ybmVyIGRlY29yYXRpb25zIC0tPgogIDxnIHN0cm9rZT0iIzAwZmY0MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNyI+CiAgICA8cG9seWxpbmUgcG9pbnRzPSI0LDIwIDQsNCAyMCw0Ii8+CiAgICA8cG9seWxpbmUgcG9pbnRzPSI4NDAsNCA4NTYsNCA4NTYsMjAiLz4KICAgIDxwb2x5bGluZSBwb2ludHM9IjQsMTYwIDQsMTc2IDIwLDE3NiIvPgogICAgPHBvbHlsaW5lIHBvaW50cz0iODQwLDE3NiA4NTYsMTc2IDg1NiwxNjAiLz4KICA8L2c+CgogIDwhLS0gc2NhbmxpbmUgc3dlZXAgLS0+CiAgPHJlY3Qgd2lkdGg9Ijg2MCIgaGVpZ2h0PSI0MCIgZmlsbD0idXJsKCNzY2FuR3JhZCkiIGNsaXAtcGF0aD0idXJsKCNjbGlwKSI+CiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iMCwtNDAiIHRvPSIwLDE4MCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3JlY3Q+CgogIDwhLS0gdG9wIHRhZyAtLT4KICA8ZyBhbmltYXRpb249ImZhZGVVcCAxcyBlYXNlLW91dCBmb3J3YXJkcyI+CiAgICA8dGV4dCB4PSI5MCIgeT0iMjIiIGNsYXNzPSJ0YWctdGV4dCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC41Ij5bIFNZU1RFTSBJTklUSUFMSVpFRCBdPC90ZXh0PgogICAgPHRleHQgeD0iNjAwIiB5PSIyMiIgY2xhc3M9InRhZy10ZXh0IiBmaWxsPSIjMDBmZjQxIiBvcGFjaXR5PSIwLjQiPkFDQ0VTUzogR1JBTlRFRDwvdGV4dD4KICA8L2c+CgogIDwhLS0g4pSA4pSA4pSAIE1BSU4gTkFNRSBCTE9DSyDilIDilIDilIAgLS0+CiAgPCEtLSBHbGl0Y2ggbGF5ZXIgMSAocmVkIG9mZnNldCkgLS0+CiAgPGcgZmlsdGVyPSJ1cmwoI2dsaXRjaC1maWx0ZXIpIiBvcGFjaXR5PSIwLjUiPgogICAgPHRleHQgeD0iNDMwIiB5PSIxMDUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJtYWluLXRleHQiCiAgICAgICAgICBmaWxsPSIjZmYwMDMzIiBmaWx0ZXI9InVybCgjZ2xvdykiCiAgICAgICAgICBzdHlsZT0iYW5pbWF0aW9uOmdsaXRjaDEgN3MgaW5maW5pdGUiPgogICAgICBpYW11bmtub3duNzcKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgdmFsdWVzPSI0MzA7NDMzOzQyNzs0MzA7NDMwIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIga2V5VGltZXM9IjA7MC45MjswLjk1OzAuOTc7MSIvPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ5IiB2YWx1ZXM9IjEwNTsxMDY7MTA0OzEwNTsxMDUiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBrZXlUaW1lcz0iMDswLjkyOzAuOTU7MC45NzsxIi8+CiAgICA8L3RleHQ+CiAgPC9nPgogIDwhLS0gR2xpdGNoIGxheWVyIDIgKGN5YW4gb2Zmc2V0KSAtLT4KICA8ZyBvcGFjaXR5PSIwLjQiPgogICAgPHRleHQgeD0iNDMwIiB5PSIxMDUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJtYWluLXRleHQiCiAgICAgICAgICBmaWxsPSIjMDBmZmZmIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgICBpYW11bmtub3duNzcKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgdmFsdWVzPSI0MzA7NDI3OzQzMzs0MzA7NDMwIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIga2V5VGltZXM9IjA7MC45MzswLjk2OzAuOTg7MSIvPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MDswOzA7MDswOzA7MDswOzA7MDswOzAuNDswOzAuNDswOzAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3RleHQ+CiAgPC9nPgogIDwhLS0gTWFpbiBuYW1lIC0tPgogIDx0ZXh0IHg9IjQzMCIgeT0iMTA1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibWFpbi10ZXh0IgogICAgICAgIGZpbGw9InVybCgjbmFtZUdyYWQpIiBmaWx0ZXI9InVybCgjZ2xvdzIpIj4KICAgIGlhbXVua25vd243NwogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzE7MTsxOzE7MTsxOzE7MTsxOzE7MTswLjg1OzE7MC45OzE7MSIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3RleHQ+CgogIDwhLS0g4pSA4pSA4pSAIEJBU0U2NCBDWUNMSU5HIEJFTE9XIE5BTUUg4pSA4pSA4pSAIC0tPgogIDwhLS0gUExBSU4gdGV4dCAodmlzaWJsZSBmaXJzdCkgLS0+CiAgPGcgc3R5bGU9ImFuaW1hdGlvbjpiNjRjeWNsZSA2cyBlYXNlLWluLW91dCBpbmZpbml0ZSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjE7MTsxOzA7MDswOzE7MTsxOzA7MDswOzEiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBrZXlUaW1lcz0iMDswLjE1OzAuMjswLjI1OzAuNTswLjU1OzAuNjswLjc1OzAuODswLjg1OzAuOTswLjk1OzEiLz4KICAgIDx0ZXh0IHg9IjQzMCIgeT0iMTMzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ic3ViLXRleHQiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuOSI+CiAgICAgIFsgaWFtdW5rbm93bjc3IF0KICAgIDwvdGV4dD4KICA8L2c+CiAgPCEtLSBCQVNFNjQgZW5jb2RlZCB0ZXh0IChjeWNsZXMgaW4pIC0tPgogIDxnPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MDsxOzE7MTswOzA7MDsxOzE7MTswIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIga2V5VGltZXM9IjA7MC4xNTswLjI7MC4yNTswLjU7MC41NTswLjY7MC43NTswLjg7MC44NTswLjk7MC45NTsxIi8+CiAgICA8dGV4dCB4PSI0MzAiIHk9IjEzMyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InN1Yi10ZXh0IiBmaWxsPSIjMzlmZjE0IiBvcGFjaXR5PSIwLjc1Ij4KICAgICAgYVdGdGRXNXJibTkzYmpjMwogICAgPC90ZXh0PgogIDwvZz4KCiAgPCEtLSDilIDilIDilIAgQk9UVE9NIFNUQVRVUyBCQVIg4pSA4pSA4pSAIC0tPgogIDx0ZXh0IHg9IjkwIiB5PSIxNjMiIGNsYXNzPSJ0YWctdGV4dCIgZmlsbD0iIzAwZmY0MSIgb3BhY2l0eT0iMC40NSI+CiAgICAmZ3Q7IENPT0xYUExPIDo6IFJFRCBURUFNIE9QRVJBVE9SCiAgPC90ZXh0PgoKICA8IS0tIGJsaW5raW5nIGN1cnNvciAtLT4KICA8cmVjdCB4PSIzNjIiIHk9IjE1MiIgd2lkdGg9IjciIGhlaWdodD0iMTMiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuOSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjE7MTswOzA7MSIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3JlY3Q+CgogIDx0ZXh0IHg9IjYwMCIgeT0iMTYzIiBjbGFzcz0idGFnLXRleHQiIGZpbGw9IiMwMGZmNDEiIG9wYWNpdHk9IjAuNCI+U1RBVFVTOiBPTkxJTkVfPC90ZXh0PgoKICA8IS0tIHB1bHNlIHJpbmcgYmVoaW5kIG5hbWUgLS0+CiAgPGVsbGlwc2UgY3g9IjQzMCIgY3k9Ijk3IiByeD0iMjAwIiByeT0iMjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwZmY0MSIgc3Ryb2tlLXdpZHRoPSIwLjUiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0icngiIHZhbHVlcz0iMTgwOzIxMDsxODAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMDg7MC4xODswLjA4IiBkdXI9IjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZWxsaXBzZT4KPC9zdmc+Cg==" alt="iamunknown77" width="860"/>
+
 </div>
+
 ---
+
 ```python
 #!/usr/bin/env python3
-# iamunknown77.py
 
 class COOLXPLO:
     def __init__(self):
         self.alias        = ["COOLXPLO", "iamunknown77"]
         self.role         = "CyberSecurity Researcher & Red Teamer"
-        self.languages    = ["Python", "JavaScript", "PowerShell", "Bash", "C"]
-        self.tools        = ["Nmap", "Burp Suite", "Metasploit", "Wireshark", "Hashcat"]
+        self.code         = ["Python", "JavaScript", "PowerShell", "Bash", "C"]
+        self.tools        = ["Nmap", "Burp Suite", "Metasploit", "Hashcat", "Wireshark"]
         self.interests    = {
-            "primary"   : ["penetration_testing", "CTF", "exploit_dev"],
-            "secondary" : ["network_security", "reverse_engineering", "OSINT"],
+            "primary"    : ["penetration_testing", "CTF", "exploit_dev"],
+            "secondary"  : ["network_recon", "reverse_engineering", "OSINT"],
         }
         self.certs_target = ["eJPT", "OSCP", "CEH"]
         self.os           = ["Kali Linux", "Parrot OS", "Windows"]
         self.motto        = "// Stay curious. Stay dangerous. Stay unknown."
 
-    def __repr__(self):
-        return f"<Hacker alias={self.alias[1]} | status=ACTIVE>"
-
 me = COOLXPLO()
-print(me)
-# Output: <Hacker alias=iamunknown77 | status=ACTIVE>
+# <Hacker alias=iamunknown77 | status=ACTIVE>
 ```
+
 ---
+
 <div align="center">
-⚡ Arsenal
-<img src="https://skillicons.dev/icons?i=python,js,powershell,bash,linux,kali,github,vscode,git&theme=dark" />
+
+## ⚡ Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,js,powershell,bash,linux,github,vscode,git&theme=dark" />
+
 </div>
+
 ---
-🔴 Pinned Projects
-Project	Description	Language	Stars
-🔓 pv-nodejs-layer-7	Node.js L7 load testing & HTTP/2 security audit tool. Supports HTTP/1/2/3, randomised TLS & Rapid Reset.	![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)	⭐ 3
-🔐 HashReaper	Multi-threaded hash cracker: dictionary, rules, mask & brute-force. Built for CTF & sec research.	![Py](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)	⭐ 3
-🌐 NetSpecter	Nmap-powered recon tool with CVE lookup, CVSS filtering & rich terminal output.	![Py](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)	⭐ 3
-🛡️ WinDefenderBypass	Defender evasion research using Netcat — for defensive & educational study only.	![PS](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)	⭐ 3
-🔑 CryptX	Terminal encryption toolkit: classical ciphers, modern encoding, hashing & crypto.	![Py](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)	⭐ 2
-🕵️ CyDrit	Phishing detection & malware static analysis toolkit with URL scanning & threat scoring.	![Py](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)	⭐ 2
+
+## 🔴 Projects
+
+| Project | Description | Lang | ⭐ |
+|---|---|---|---|
+| 🔓 [**pv-nodejs-layer-7**](https://github.com/COOLXPLO/pv-nodejs-layer-7) | L7 load testing & HTTP/2 security audit tool | JS | 3 |
+| 🔐 [**HashReaper**](https://github.com/COOLXPLO/HashReaper) | Multi-threaded hash cracker for CTF & research | Python | 3 |
+| 🌐 [**NetSpecter**](https://github.com/COOLXPLO/NetSpecter-Network-Vulnerability-Scanner) | Nmap recon tool with CVE lookup & CVSS filtering | Python | 3 |
+| 🛡️ [**WinDefenderBypass**](https://github.com/COOLXPLO/WindowsDefenderBypassNetcat) | Defender evasion research via Netcat | PowerShell | 3 |
+| 🔑 [**CryptX**](https://github.com/COOLXPLO/CryptX-Ultimate-Terminal-Encryption-Toolkit) | Terminal encryption toolkit: ciphers, hashing, crypto | Python | 2 |
+| 🕵️ [**CyDrit**](https://github.com/COOLXPLO/CyDrit-Cyber-Defense-Threat-Intelligence) | Phishing detection & malware static analysis | Python | 2 |
+
 ---
-📊 GitHub Stats
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=COOLXPLO&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false&count_private=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=COOLXPLO&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COOLXPLO&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COOLXPLO&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
+
 <br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=COOLXPLO&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41" />
+
 </div>
+
 ---
-🏆 Achievements
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=COOLXPLO&theme=matrix&no-bg=true&no-frame=false&column=4&margin-w=8" />
-</div>
----
-🐍 Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/COOLXPLO/COOLXPLO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/COOLXPLO/COOLXPLO/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/COOLXPLO/COOLXPLO/output/github-snake-dark.svg" />
-</picture>
-</div>
----
-📡 Activity Graph
-<div align="center">
-![COOLXPLO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=COOLXPLO&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41)
-</div>
----
-<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   "The quieter you become, the more you can hear."  ║
 ║                         — Kali Linux                ║
 ╚══════════════════════════════════════════════════════╝
 ```
-[ iamunknown77 · COOLXPLO · Stay Unknown ]
+
 </div>
